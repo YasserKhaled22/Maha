@@ -93,7 +93,11 @@ const imagePaths = [
 './assets/93.jpg',
 './assets/94.jpg',
 './assets/95.jpg',
-
+'./assets/96.jpeg',
+'./assets/97.jpeg',
+'./assets/98.jpeg',
+'./assets/99.jpeg',
+'./assets/100.jpeg',
 
 ];
 
